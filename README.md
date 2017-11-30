@@ -29,3 +29,5 @@ Note on setup: Once you have completed these steps, you should be able to open t
 - MSU’s Zoom support: http://techbase.msu.edu/article.asp?id=21016
 - Zoom’s YouTube tutorials: https://www.youtube.com/playlist?list=PLKpRxBfeD1kEM_I1lId3N_Xl77fKDzSXe
 - Zoom’s support page: https://support.zoom.us/hc/en-us
+
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
