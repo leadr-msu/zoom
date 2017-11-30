@@ -24,7 +24,8 @@ Note on setup: Once you have completed these steps, you should be able to open t
 
 4. On the right side of the menu at the bottom, you’ll see a ‘Record’ button. This will start a recording and send a notification to everyone that the call is being recorded. You can stop and start the recording multiple times during the call and all will be saved. Make sure you hit ‘Stop Recording’ before ending the call, and then finally click ‘End Meeting’ This will start a conversion process where it takes the recording and turns it into an .mp4 (video) and .m4a (audio) file. This may take a few minutes, especially if you have a long video meeting. 5. Once Zoom has finished processing, it will open a Finder/Windows Explorer window displaying the files. You can find the recordings in a ‘Zoom’ folder the program creates – probably in your ‘Documents’ folder.
 
-More Help with Zoom
-MSU’s Zoom support: http://techbase.msu.edu/article.asp?id=21016
-Zoom’s YouTube tutorials: https://www.youtube.com/playlist?list=PLKpRxBfeD1kEM_I1lId3N_Xl77fKDzSXe
-Zoom’s support page: https://support.zoom.us/hc/en-us
+## More Help with Zoom
+
+- MSU’s Zoom support: http://techbase.msu.edu/article.asp?id=21016
+- Zoom’s YouTube tutorials: https://www.youtube.com/playlist?list=PLKpRxBfeD1kEM_I1lId3N_Xl77fKDzSXe
+- Zoom’s support page: https://support.zoom.us/hc/en-us
