@@ -30,4 +30,4 @@ Note on setup: Once you have completed these steps, you should be able to open t
 - Zoom’s YouTube tutorials: https://www.youtube.com/playlist?list=PLKpRxBfeD1kEM_I1lId3N_Xl77fKDzSXe
 - Zoom’s support page: https://support.zoom.us/hc/en-us
 
-### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/Resources/)
