@@ -4,7 +4,8 @@ Zoom is a web conferencing platform licensed by MSU that includes a built-in rec
 
 ## First Time Setup
 
-1. Go to http://msu.zoom.us/ and download the Zoom software (anyone who wants to use Zoom via the web will have to download the software – it’s a very small and fast download and setup)
+1. Go to 
+[http://msu.zoom.us/](http://msu.zoom.us/) and download the Zoom software (anyone who wants to use Zoom via the web will have to download the software – it’s a very small and fast download and setup)
 2. Login using your MSU credentials
 3. Hover over the ‘Host a Meeting’ button in the top right and select either with or without video. You may need to approve the launch of the Zoom software.
 
@@ -26,8 +27,8 @@ Note on setup: Once you have completed these steps, you should be able to open t
 
 ## More Help with Zoom
 
-- MSU’s Zoom support: http://techbase.msu.edu/article.asp?id=21016
-- Zoom’s YouTube tutorials: https://www.youtube.com/playlist?list=PLKpRxBfeD1kEM_I1lId3N_Xl77fKDzSXe
-- Zoom’s support page: https://support.zoom.us/hc/en-us
+- MSU’s Zoom support: [http://techbase.msu.edu/article.asp?id=21016](http://techbase.msu.edu/article.asp?id=21016)
+- Zoom’s YouTube tutorials: [https://www.youtube.com/playlist?list=PLKpRxBfeD1kEM_I1lId3N_Xl77fKDzSXe](https://www.youtube.com/playlist?list=PLKpRxBfeD1kEM_I1lId3N_Xl77fKDzSXe)
+- Zoom’s support page: [https://support.zoom.us/hc/en-us](https://support.zoom.us/hc/en-us)
 
 ### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
